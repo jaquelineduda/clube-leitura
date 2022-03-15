@@ -1,0 +1,6 @@
+Cor do fundo: 255 255 255
+Cor do "circulo": 255 249 250
+Cor das escritas: #fff2f5
+Cor dos botões: #ffeff2
+Cor da roupa da moca: #ffbfcb
+Cor de uma das pranta:#ffe8ed
